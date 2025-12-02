@@ -13,3 +13,6 @@ chest.is_lid_exists = True
 chest.is_lock_locked = False
 
 print(f"{chest.width = }")
+
+
+# Запомните: атрибут. То, что через точку получаем.
