@@ -36,3 +36,5 @@ for e in employees:
     for key, value in e.items():
         print(key, " - ", value)
 
+
+# Но это не удобно! Код копирования каждый раз что ли пичсать?

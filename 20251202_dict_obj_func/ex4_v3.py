@@ -1,5 +1,6 @@
 # Пока так, но потом сам класс будет всё делать сам
 
+
 def create_non_empty_chest():  # Создали свою функцию  
 
     class Chest:
@@ -23,3 +24,6 @@ print(f"{my_chest.width = }")
 other_chest = create_non_empty_chest()
 other_chest.width = 200
 print(f"{other_chest.width = }")
+
+
+# Ура! Автоматизировали прописывание атрибутов.
